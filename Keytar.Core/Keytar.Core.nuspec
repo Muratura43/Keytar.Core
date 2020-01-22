@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Keytar.Core</id>
+    <version>1.0.0</version>
+    <title>Keytar.Core</title>
+    <authors>Muratura43</authors>
+    <owners>Heimdal Security</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Provides macOS keychain support in .NET Core.</description>
+	<projectUrl>https://github.com/Muratura43/Keytar.Core</projectUrl>
+  </metadata>
+  <files>
+        <file src="Resources/keytar.dll" target="" />
+    </files>
+</package>
