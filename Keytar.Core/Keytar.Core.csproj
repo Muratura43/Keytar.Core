@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Muratura43</Authors>
+    <Company>Heimdal Security</Company>
+    <Product>Keytar.Core</Product>
+    <Description>Provides macOS keychain support in .NET Core.</Description>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>keytar keychain macos dotnet core</PackageTags>
+    <RepositoryUrl>https://github.com/Muratura43/Keytar.Core</RepositoryUrl>
+    <NeutralLanguage>English</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
