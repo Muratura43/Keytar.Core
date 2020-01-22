@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keytar.Core", "Keytar.Core.csproj", "{F5C493FA-5704-4E01-B0FE-433976D5A18A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keytar.Core", "Keytar.Core\Keytar.Core.csproj", "{F5C493FA-5704-4E01-B0FE-433976D5A18A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keytar.Api", "..\Keytar.Api\Keytar.Api.vcxproj", "{F6269F15-F6B6-4368-985F-B7F3C926C3C6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keytar.Api", "Keytar.Api\Keytar.Api.vcxproj", "{F6269F15-F6B6-4368-985F-B7F3C926C3C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keytar.Test", "..\Keytar.Test\Keytar.Test.csproj", "{05583881-491F-4FE0-A589-1AF0E62B3EDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keytar.Test", "Keytar.Test\Keytar.Test.csproj", "{05583881-491F-4FE0-A589-1AF0E62B3EDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
